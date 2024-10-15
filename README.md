@@ -5,10 +5,12 @@
 #
 <h3 align = "center">About Me</h3>
 
-<p align = "center">
-  Estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de São Paulo (IFSP). Tenho me aprofundado na área de tecnologia, sempre em busca de aprender e explorar mais.
-  Entusiasta por inovação, estou constantemente buscando novos desafios que me ajudem a expandir meus conhecimentos e aprimorar minhas habilidades.
-</p>
+- 📌 Moro em Araraquara, São Paulo, Brasil.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFSP.
+- 💻 Focado no aprofundamento na área de tecnologia.
+- 🚀 Entusiasta por inovação.
+- 🎯 Busca constante por novos desafios.
+- 📈 Interesse em expandir conhecimentos e aprimorar habilidades técnicas e interpessoais.
 
 #
 
