@@ -12,6 +12,8 @@
 
 #
 
+<h3 align = "center">GitHub Stats</h3>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CristianoRDO&show_icons=true&count_private=true&hide_border=true&title_color=8844EE&icon_color=8844EE&text_color=c9d1d9&bg_color=0d1117" alt="Cristiano Oliveira Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoRDO&layout=compact&hide_border=true&title_color=8844EE&text_color=8844EE&bg_color=0d1117" />
